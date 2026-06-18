@@ -1,0 +1,10 @@
+target/
+*.jar
+*.war
+logs/
+.idea/
+*.iml
+*.backup
+*.bak
+.env
+application-*.properties
